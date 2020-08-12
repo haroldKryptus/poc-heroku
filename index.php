@@ -1,5 +1,4 @@
 <?php
-header("Location: https://www.budlight.com/");
 die();
 ?<
 <html>
